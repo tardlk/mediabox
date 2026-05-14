@@ -1,0 +1,16 @@
+# build output
+catvodtool/build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.trae/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# logs
+*.log
